@@ -2,8 +2,8 @@
 <details open>
 <summary><b>2026</b></summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/token-activity-2026-dark.svg?v=752f66d9b53a">
-  <img alt="Token activity heatmap for 2026: 19B tokens. Companies: OpenAI 75.5%, Qwen 9.6%, Anthropic 9.5%, DeepSeek 2.7%, Other 2.8%." src="assets/token-activity-2026-light.svg?v=2ab2de1f4dcd" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/token-activity-2026-dark.svg?v=5fe495b974cd">
+  <img alt="Token activity heatmap for 2026: 19.1B tokens. Companies: OpenAI 75.3%, Qwen 9.5%, Anthropic 9.4%, DeepSeek 2.7%, Other 3.0%." src="assets/token-activity-2026-light.svg?v=49f153ab0945" width="100%">
 </picture>
 </details>
 <details>

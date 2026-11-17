@@ -14,8 +14,8 @@ Interested in AI Agent apps, Future web design, LLMs...
 <details open>
 <summary><b>2026</b></summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/token-activity-2026-dark.svg?v=9ef9f5f96013">
-  <img alt="Token activity heatmap for 2026: 20.1B tokens. Companies: OpenAI 75.9%, Anthropic 9.6%, Qwen 9.0%, DeepSeek 2.6%, Other 2.9%." src="assets/token-activity-2026-light.svg?v=28b4015e558a" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/token-activity-2026-dark.svg?v=5e9dca316837">
+  <img alt="Token activity heatmap for 2026: 20.3B tokens. Companies: OpenAI 75.8%, Anthropic 9.8%, Qwen 9.0%, DeepSeek 2.6%, Other 2.9%." src="assets/token-activity-2026-light.svg?v=0291326ae89e" width="100%">
 </picture>
 </details>
 <details>
